@@ -44,10 +44,10 @@ public class CategoryController {
 	    PageHelper.startPage(start,size,"id desc");
 	    List<Category> cs=categoryMapper.findAll();
 	    PageInfo<Category> page = new PageInfo<>(cs);
-	    m.addAttribute("page", page);         
-	    return "listCategory";
+	    m.addAttribute("page", page);
+	    return "ListCategory";
 	}
-    
-    
+
+
      
 }

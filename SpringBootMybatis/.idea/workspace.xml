@@ -1,7 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d12578a-e5d8-4f74-8b90-c30c6f3b6b91" name="Default Changelist" comment="" />
+    <list default="true" id="2d12578a-e5d8-4f74-8b90-c30c6f3b6b91" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/.settings/org.eclipse.wst.validation.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/src/main/java/com/how2java/springboot/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/src/main/java/com/how2java/springboot/dao/CategoryDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/src/main/java/com/how2java/springboot/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/src/main/java/com/how2java/springboot/pojo/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/src/main/java/com/how2java/springboot/test/TestJPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/src/main/java/com/how2java/springboot/web/CategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/src/main/java/com/how2java/springboot/web/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/src/main/resources/static/x/b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/src/main/webapp/WEB-INF/jsp/editCategory.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/src/main/webapp/WEB-INF/jsp/errorPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/src/main/webapp/WEB-INF/jsp/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/src/main/webapp/WEB-INF/jsp/listCategory.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/src/main/webapp/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/target/classes/com/how2java/springboot/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/target/classes/com/how2java/springboot/dao/CategoryDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/target/classes/com/how2java/springboot/exception/GlobalExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/target/classes/com/how2java/springboot/pojo/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/target/classes/com/how2java/springboot/test/TestJPA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/target/classes/com/how2java/springboot/web/CategoryController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/target/classes/com/how2java/springboot/web/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/target/classes/static/x/b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/target/m2e-wtp/web-resources/META-INF/maven/com.how2java/springboot/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootJunit/target/m2e-wtp/web-resources/META-INF/maven/com.how2java/springboot/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootPage/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootPage/target/classes/com/how2java/springboot/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootPage/target/classes/com/how2java/springboot/config/PageHelperConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootPage/target/classes/com/how2java/springboot/exception/GlobalExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootPage/target/classes/com/how2java/springboot/mapper/CategoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootPage/target/classes/com/how2java/springboot/pojo/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootPage/target/classes/com/how2java/springboot/web/CategoryController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootPage/target/classes/com/how2java/springboot/web/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBootJunit/.idea/artifacts/springboot_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBootJunit/.idea/artifacts/springboot_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBootJunit/springboot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBootJunit/springboot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBootPage/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBootPage/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBootPage/src/main/java/com/how2java/springboot/web/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBootPage/src/main/java/com/how2java/springboot/web/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBootPage/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBootPage/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,7 +138,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -92,9 +148,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="341" />
-    <option name="y" value="254" />
-    <option name="width" value="1400" />
+    <option name="x" value="87" />
+    <option name="y" value="349" />
+    <option name="width" value="1667" />
     <option name="height" value="820" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -188,6 +244,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -226,7 +288,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564556095034</updated>
-      <workItem from="1564556097980" duration="2574000" />
+      <workItem from="1564556097980" duration="3782000" />
     </task>
     <task id="LOCAL-00001" summary="SpringBoot-Mybatis项目">
       <created>1564556829765</created>
@@ -239,7 +301,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2574000" />
+    <option name="totallyTimeSpent" value="3782000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -264,7 +326,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32911393" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39930955" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39930955" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
